@@ -4,3 +4,4 @@ geopandas==1.0.1
 folium==0.18.0
 branca==0.8.0
 streamlit-folium==0.9.0
+numpy==2.0.2
